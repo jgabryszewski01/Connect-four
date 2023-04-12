@@ -1,4 +1,6 @@
 # Connect-four
+
+AIzaSyAN4MoUnj7LB5LHhXSiSoZAJJ21sXd7LgU
 Mobile game - connect four game
 
 Zaimplementowana logika gry connect four. Posiada możliwość rozpoczęcia gry od nowa podczas 
